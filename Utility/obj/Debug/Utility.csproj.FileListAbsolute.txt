@@ -1,0 +1,13 @@
+c:\users\asiri.somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\Utility.dll
+c:\users\asiri.somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\Utility.pdb
+c:\users\asiri.somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+c:\users\asiri.somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\obj\Debug\Utility.dll
+c:\users\asiri.somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\obj\Debug\Utility.pdb
+C:\Users\Asiri.Somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Asiri.Somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Asiri.Somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Asiri.Somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Asiri.Somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Asiri.Somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Asiri.Somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\StringReader\Resources\spRestoreDB.sql
+C:\Users\Asiri.Somarathne\documents\visual studio 2015\Projects\RestoreDB\Utility\bin\Debug\StringReader\Resources\spRestoreFromFolder.sql
